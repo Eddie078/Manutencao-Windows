@@ -43,7 +43,7 @@ O script oferece uma seleção de tarefas que podem ser executadas individualmen
 **1. Download:**
 * **Opção A (Git):** Clone o repositório para o seu computador:
     ```bash
-    git clone [https://github.com/Eddie078/Manutencao-Windows.git](https://github.com/Eddie078/Manutencao-Windows.git)
+    git clone https://github.com/Eddie078/Manutencao-Windows.git
     ```
 * **Opção B (Download Direto):** Na página do repositório no GitHub, clique em **Code** -> **Download ZIP** e extraia os arquivos.
 
